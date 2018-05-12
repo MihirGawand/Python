@@ -1,0 +1,10 @@
+#readme
+Instructions for the code on HW1
+
+I have used the Python package pandas version 0.22.0 for this HW. In case you don't have the package installed please access the link: (https://pandas.pydata.org/pandas-docs/stable/install.html) to install pandas
+
+
+The code consists of 6 functions and the only input to be provided to this function is the variable 'file' which should direct to the .csv file that you want to access.
+
+
+ 
