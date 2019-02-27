@@ -3,6 +3,8 @@
 Created on Fri Apr 13 09:09:05 2018
 
 @author: sgmih
+
+Calculates the cylinder and torus volume by taking appropriate values
 """
 
 #!/usr/bin/env python3
