@@ -3,6 +3,8 @@
 Created on Fri Apr 13 09:09:05 2018
 
 @author: sgmih
+
+Calculates the absolute difference between the first two numbers and returns 'True' if it is less than the third number.
 """
 
 #!/usr/bin/env python3
