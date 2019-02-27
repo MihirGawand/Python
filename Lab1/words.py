@@ -3,6 +3,8 @@
 Created on Fri Apr 13 09:07:07 2018
 
 @author: sgmih
+
+This function returns the number of occurences of a letter in a text
 """
 #!/usr/bin/env python3
 
